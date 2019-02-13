@@ -1,5 +1,4 @@
 # labspy01
-# labspy01
 
 Algoritma menentukan hasil nilai terbesar dari 3 buah bilangan.
  Diketahui 3 buah bilangan bil1, bil2, bil3 yang akan di cari nilai terbesar
@@ -17,6 +16,7 @@ Algoritma menentukan hasil nilai terbesar dari 3 buah bilangan.
 11. selesai
 
 -Contoh program menentukan bilangan terbesar
+
 ![contoh program menentukan bilangan terbesar](https://user-images.githubusercontent.com/46749190/52716419-4e4f4900-2fd1-11e9-81af-1d4c1ffe36c6.png)
 
 1. Contoh bilangan terbesar pertama
